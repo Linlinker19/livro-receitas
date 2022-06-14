@@ -3,3 +3,4 @@
 * Receitas: 
 1. Strogonoff de Frango 🐔
 2. Espaguete a Carbonara 🍝
+3. Costela ao molho barbecue 🍖
