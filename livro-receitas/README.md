@@ -2,3 +2,4 @@
 
 * Receitas: 
 1. Strogonoff de Frango 🐔
+2. Espaguete a Carbonara 🍝
